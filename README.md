@@ -19,3 +19,6 @@ from your R prompt.
 
 Please follow this [tutorial](https://cavei.github.io/MOSClipTutorials/). The tutorial reproduce the analysis performed by MOSClip in the TCGA Ovarian Cancer dataset. You can download the initial dataset [here](https://cavei.github.io/example-datasets/).
 
+### To do list
+- combine the result WES and RNAseq.
+- add clinical variate to cph model
