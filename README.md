@@ -21,4 +21,4 @@ Please follow this [tutorial](https://cavei.github.io/MOSClipTutorials/). The tu
 
 ### To do list
 - combine the result WES and RNAseq.
-- add clinical variate to cph model
+- add clinical factors to cph model
